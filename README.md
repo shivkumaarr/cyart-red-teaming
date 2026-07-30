@@ -42,4 +42,6 @@ This project enhanced my practical understanding of penetration testing, vulnera
 I would like to express my sincere gratitude to Cyart Tech for providing the opportunity to gain practical experience in cybersecurity and red team operations. The guidance, learning environment, and hands-on exposure significantly contributed to the development of my technical and professional skills.
 
 Name: Shiv Kumar
-
+Portfolio Link: https://fghdvdqm.portfely.com
+LinkedIn: https://www.linkedin.com/in/shiv-kumar-0797733b1/ 
+Medium: https://medium.com/@localhostsinga
